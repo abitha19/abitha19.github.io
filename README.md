@@ -12,7 +12,7 @@
     <li>LoadRunner</li>
   </ul>
 
- <a href="https://www.visualcv.com/abithasanjeevi/pdf/"> Download the pdf version of my resume here </a>
+ <a href="https://www.visualcv.com/abithasanjeevi/pdf/" target="_blank"> Download the pdf version of my resume here </a>
  <p>
- <a href="https://www.linkedin.com/in/abithasanjeevi/">My LinkedIn profile </a> </p>
+ <a href="https://www.linkedin.com/in/abithasanjeevi/" target="_blank">My LinkedIn profile </a> </p>
 </div>
