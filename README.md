@@ -1,4 +1,3 @@
-# Mock Script
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
