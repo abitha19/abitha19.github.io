@@ -12,12 +12,10 @@
     <li>LoadRunner</li>
   </ul>
 
-  <p>Download the pdf version of my resume here <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
+  Download the pdf version of my resume here <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-
-  </p>  
-  <p class="head">My LinkedIn profile
+My LinkedIn profile
    
     <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
-    </a></p>
+    </a>
 </div>
