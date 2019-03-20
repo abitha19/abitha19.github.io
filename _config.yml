@@ -5,6 +5,8 @@ title: Abitha Natarajan CV
 name: Abitha Natarajan
 theme: Minimal
 ---
+
+  <h1>{{ page.title }}</h1>
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
