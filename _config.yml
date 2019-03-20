@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Abitha Natarajan CV
-theme: Minimal
+theme: Tactile
 ---
 
   <h1>{{ page.title }}</h1>
@@ -13,3 +13,5 @@ primarylinks:
    url: https://www.linkedin.com/in/abithasanjeevi/
  -title: Get the pdf version of my resume here
    url: https://www.visualcv.com/abithasanjeevi/pdf/
+
+<p class="head">{{ page.urls}}</p>
