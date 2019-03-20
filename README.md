@@ -13,13 +13,12 @@
   </ul>
 
   <p class="head">Download the pdf version of my resume here</p>
-  <ul>
+  
     <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-  </ul>
   <p class="head">My LinkedIn profile</p>
-    <ul>
+   
     <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-  </ul>
+\
 </div>
