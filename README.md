@@ -1,11 +1,10 @@
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
-  <br><br>
+  
   <h1>Resume</h1>
   <h2>Abitha</h2>
-  <hr />
-  <br>
+
   <p class="head">Specialization</p>
   <ul>
     <li>Neoload</li>
