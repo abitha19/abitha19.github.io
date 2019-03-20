@@ -1,8 +1,5 @@
 # Site settings
 ---
-layout: post
-title: Abitha Natarajan CV
+title: Abitha Natarajan
 theme: jekyll-theme-minimal
 ---
-
-  <h1>{{ page.title }}</h1>
