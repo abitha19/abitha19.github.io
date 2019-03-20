@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Abitha Natarajan CV
-theme: Tactile
+theme: jekyll-theme-minimal
 ---
 
   <h1>{{ page.title }}</h1>
