@@ -1,7 +1,10 @@
 # Site settings
+---
+layout: post
 title: Abitha Natarajan CV
 name: Abitha Natarajan
 theme: Minimal
+---
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
