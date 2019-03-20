@@ -2,8 +2,6 @@
 ---
 layout: post
 title: Abitha Natarajan CV
-name: Abitha Natarajan
-theme: Minimal
 ---
 
   <h1>{{ page.title }}</h1>
