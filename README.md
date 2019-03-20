@@ -3,44 +3,24 @@
 <div class="stuff">
   <br><br>
   <h1>Resume</h1>
-  <h2>Emily</h2>
+  <h2>Abitha</h2>
   <hr />
   <br>
-  <p class="head">Interests</p>
+  <p class="head">Specialization</p>
   <ul>
-    <li>Drawing</li>
-    <li>Photography</li>
-    <li>Design</li>
-    <li>Programming</li>
-    <li>Computer Science</li>
+    <li>Neoload</li>
+    <li>JMeter</li>
+    <li>LoadRunner</li>
   </ul>
-  <p class="head">Skills</p>
+
+  <p class="head">Download the pdf version of my resume here</p>
   <ul>
-    <li>Web Design with HTML & CSS</li>
-  </ul>
-  <p class="head">Education</p>
-  <ul>
-    <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
-      <li>Wilton High School</li>
+    <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-    <!--Link-->
-    <a href="https://www.silvermineart.org/">
-      <li>Silvermine School of Arts</li>
+  </ul>
+  <p class="head">My LinkedIn profile</p>
+    <ul>
+    <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-    <li>Codeacademy</li>
-  </ul>
-  <p class="head">Experience</p>
-  <ul>
-    <li>Student Technology Intern for Wilton School District</li>
-    <li>Babysitter</li>
-  </ul>
-  <p class="head">Extracurriculars</p>
-  <ul>
-    <li>Recycling Club</li>
-    <li>Gardening Club</li>
-    <li>Book Club</li>
   </ul>
 </div>
-<div class="right"></div>
-<div id="footer">
-  <h2 id="name">Emily</h2></div>
