@@ -20,5 +20,4 @@
    
     <a href="https://www.visualcv.com/abithasanjeevi/pdf/">
     </a>
-\
 </div>
