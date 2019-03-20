@@ -14,4 +14,4 @@ primarylinks:
  -title: Get the pdf version of my resume here
    url: https://www.visualcv.com/abithasanjeevi/pdf/
 
-<p class="head">{{ page.urls}}</p>
+<p class="head">{{ page.url}}</p>
