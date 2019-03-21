@@ -16,7 +16,13 @@
  <p>
  <a href="https://www.linkedin.com/in/abithasanjeevi/" target="_blank">My LinkedIn profile </a> </p>
  <p>
- <a href="#"  onclick=" window.open('https://ieeexplore.ieee.org/document/7159300/');window.open('https://ieeexplore.ieee.org/document/7159301/');">My works in IEEE Explore</a> </p>
+ <a href="#" class="onClick">IEEE Publications</a> </p>
+
+                        $('a.onClick').click(function(e) {
+    e.preventDefault();
+    window.open('https://ieeexplore.ieee.org/document/7159300/');
+    window.open('https://ieeexplore.ieee.org/document/7159301/');
+});
 
  
 </div>
