@@ -16,7 +16,8 @@
  <p>
  <a href="https://www.linkedin.com/in/abithasanjeevi/" target="_blank">My LinkedIn profile </a> </p>
  <p>
- <a href="#" onclick="windows.open('https://ieeexplore.ieee.org/document/7159300'); windows.open('https://ieeexplore.ieee.org/document/7159300');">IEEE Publications</a> </p>
+ <a href="#" onclick="windows.open('https://ieeexplore.ieee.org/document/7159300'); 
+                      windows.open('https://ieeexplore.ieee.org/document/7159301');">IEEE Publications</a> </p>
 
  
 </div>
